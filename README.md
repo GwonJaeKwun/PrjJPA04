@@ -1,2 +1,1 @@
-# SpringJpa3
-# PrjJPA04
+# SpringJpa4
